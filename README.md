@@ -41,8 +41,6 @@ Each reusable lives in its own Markdown file.
 
 The path and filename of each Markdown file determines what its path will be in the data object.
 
-For example, a file named /data/reusables/foo/bar.md will be accessible as {% data reusables.foo.bar %} in pages.
-
 Reusable files are divided generally into directories by task. For example, if you're creating a reusable string for articles about GitHub notifications, you'd add it in the directory data/reusables/notifications/ in a file named data/reusables/notifications/your-reusable-name.md. The content reference you'd add to the source would look like {% data reusables.notifications.your-reusable-name %}.
 
 Now, let's prove it. Here's the code for a reusable: {% assets/reusable-lion.md %}
