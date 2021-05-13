@@ -11,6 +11,10 @@
      * Sub bullets
 </details>
 
+Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
+
+---------------
+
 This first cat has alt text and title, but cannot be resized
 ![Alt text describing image](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png "How do you like this image? This is additional info, beyond alt text")
 
