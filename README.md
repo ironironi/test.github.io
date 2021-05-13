@@ -1,25 +1,25 @@
 # Testing features
 
-# A collapsible section with markdown
+## A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
+  ### Heading
   1. A numbered
   2. list
      * With some
      * Sub bullets
 </details>
 
-________________
-
-external link that opens in same tab, nie dobje: [a test link](https://hebrewlion.com)
-
-external link that opens in a new tab: <a href="http://hebrewlion.com" target="_blank">this is descriptive text</a>
-
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
 
----------------
+## External Links
+
+External link that opens in same tab, nie dobje: [a test link](https://hebrewlion.com)
+
+External link that opens in a new tab: <a href="http://hebrewlion.com" target="_blank">this is descriptive text</a>
+
+## Images
 
 This first cat has alt text and title, but cannot be resized
 ![Alt text describing image](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png "How do you like this image? This is additional info, beyond alt text")
@@ -27,11 +27,12 @@ This first cat has alt text and title, but cannot be resized
 Now, this is the same cat resized, but using different code. I am not sure it be alt texted, etc.
 <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="100">
 
-Further info and options at https://www.xaprb.com/blog/how-to-style-images-with-markdown/
+Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-with-markdown/](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 ---------------
 
-Reusables
+## Reusables
+
 Reusables are long strings of reusable text.
 
 Reusables are longer strings like paragraphs or procedural lists that can be referenced in multiple content files. Using Markdown (instead of YAML) makes it possible for our localization pipeline to split the strings into smaller translatable segments, leading to fewer translation errors and less churn when the source English content changes.
