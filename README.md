@@ -11,6 +11,8 @@
      * Sub bullets
 </details>
 
+external link: https://hebrewlion.com
+
 
 ________________
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
