@@ -11,4 +11,4 @@
 
 [Link](url) and ![Image](src)
 
-![Alt text](src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" "Title or caption")
+![Alt text describing image](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png "Title or caption")
