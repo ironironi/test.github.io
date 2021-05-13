@@ -33,15 +33,9 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 ## Reusables
 
-Reusables are long strings of reusable text.
+Reusables are long strings of reusable text that can be referenced in multiple content files. Each reusable lives in its own Markdown file. The path and filename of each Markdown file determines what its path will be in the data object.
 
-Reusables are longer strings like paragraphs or procedural lists that can be referenced in multiple content files. Using Markdown (instead of YAML) makes it possible for our localization pipeline to split the strings into smaller translatable segments, leading to fewer translation errors and less churn when the source English content changes.
-
-Each reusable lives in its own Markdown file.
-
-The path and filename of each Markdown file determines what its path will be in the data object.
-
-
+Now, let's prove it. Here's the code for a reusable: {% assets/reusable-lion.md %}
 
 
 
