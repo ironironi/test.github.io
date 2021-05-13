@@ -11,10 +11,10 @@
      * Sub bullets
 </details>
 
-external link: [a test link](https://hebrewlion.com)
-
-
 ________________
+external link that opens in same tab, nie dobje: [a test link](https://hebrewlion.com)
+external link that opens in a new tab: <a href="http://hebrewlion.com" target="_blank">http://hebrewlion.com</a>
+
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
 
 ---------------
