@@ -11,7 +11,8 @@
      * Sub bullets
 </details>
 
-
+This first cat has alt text and title, but cannot be resized
 ![Alt text describing image](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png "How do you like this image? This is additional info, beyond alt text")
 
+Now, this is the same cat resized, but using different code. I am not sure it be alt texted, etc.
 <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="100" height="100">
