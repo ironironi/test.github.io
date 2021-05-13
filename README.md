@@ -11,7 +11,7 @@
      * Sub bullets
 </details>
 
-external link: https://hebrewlion.com
+external link: [a test link](https://hebrewlion.com)
 
 
 ________________
