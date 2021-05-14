@@ -6,6 +6,7 @@
   <summary>Click to expand!</summary>
   
   ### Heading
+  
   1. A numbered
   2. list
      * With some
@@ -32,7 +33,3 @@ Now, this is the same cat resized, but using different code. I am not sure it be
 Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-with-markdown/](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 ---------------
-
-
-
-
