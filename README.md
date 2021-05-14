@@ -34,12 +34,6 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 ---------------
 
-## Reusables
-
-Reusables are long strings of reusable text that can be referenced in multiple content files. Each reusable lives in its own Markdown file. The path and filename of each Markdown file determines what its path will be in the data object.
-
-Now, let's prove it. Here's the code for a reusable: {% assets/reusable-lion.md %}
-
 
 
 
