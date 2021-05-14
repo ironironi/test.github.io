@@ -2,7 +2,7 @@
 
 ## A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary markdown="block">Click to expand!</summary>
   
   ### Heading
   1. A numbered
