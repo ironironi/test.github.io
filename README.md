@@ -1,14 +1,17 @@
 # Testing features
 
 ## A collapsible section with markdown
+
 <details>
-  <summary>Click to expand!</summary>
+
+<summary>Click to expand!</summary>
   
   ### Heading
   1. A numbered
   2. list
      * With some
      * Sub bullets
+
 </details>
 
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
