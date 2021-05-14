@@ -4,9 +4,8 @@
 
 <details>
   <summary>Table of contents - click to expand!</summary>
- 
- 
- ### Heading
+
+### Heading
   
   1. A numbered
   2. list
