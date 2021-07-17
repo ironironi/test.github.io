@@ -54,9 +54,9 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 <details>
   <summary>Table of Contents - click to expand</summary>
 
-[Motivation](#motivation)
+[Motivation](# motivation)
 
-[Details](#details)
+[Details](# details)
 
 [Terms/Concepts](#terms/concepts)
 
