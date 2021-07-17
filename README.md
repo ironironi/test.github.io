@@ -58,7 +58,7 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 [Details](#details)
 
-[Terms/Concepts](#terms/concepts)
+[Terms/Concepts](#terms-concepts)
 
 [Prerequisites](#prerequisites)
 
@@ -81,56 +81,57 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 [Links](#links)
 
   </details>
+  
 
 # Motivation<a name="motivation"/>
 <!-- MOTIVATION: Describe the “why” for this feature. If you find the section becoming long, break it up into subsections. -->
 ReplaceWithMotivationInfo.
 
-# Details
+# Details<a name="details"/>
 <!-- DETAILS (and the entire article, in general): If appropriate content exists elsewhere, do not recreate. Instead, link to that information. Add images, tables and lists when appropriate, breaking up large chunks of text. This makes the article more "readable," enabling the reader to skim and to more quickly and easily locate and recognize information. If including any diagrams, supply “living” files that are linked to their sources/editable, as needed (e.g., LucidChart). For additional tips, refer to the Engineering article: Best Practices for Writing a Wiki Article. -->
 ReplaceWithDetailsInfo.
 
-# Terms/Concepts
+# Terms/Concepts<a name="terms-concepts"/>
 <!--- Describe any terms or concepts appearing in this article that may not be known outside of your immediate group. -->
 |Term/Concept|Definition|Example|
 |--|--|--|
 ||||
 ||||
 
-# Prerequisites
+# Prerequisites<a name="prerequisites"/>
 <!-- Describe the setup/configuration necessary to access the feature. -->
 ReplaceWithPrerequisiteInfo.
 
-# Design
+# Design<a name="design"/>
 ReplaceWithDesignInfo.
 
-# Diagrams
+# Diagrams<a name="diagrams"/>
 <!-- Overwrite the following globe with an image (or delete globe). Add image(s) that would help the reader understand the feature’s architecture, flow and dependencies, such as HLDs or flow diagrams. If including any diagrams, supply “living” files that are linked to their sources/editable, as needed (e.g., LucidChart) -->
 ![Alt text](https://github.githubassets.com/images/modules/site/home/globe.jpg)
 
-# Known Issues
+# Known Issues<a name="known-issues"/>
 <!-- Describe the feature's limitations, ways to get around these limitations and links to relevant, open Jira tickets. Troubleshooting and support information do not belong in this article, and go in a separate How-To article. -->
 ReplaceWithKnownIssuesInfo.
 
-# Dependencies
+# Dependencies<a name="dependencies"/>
 <!-- Describe the dependencies this feature has on 3rd party libraries, external team services, data, etc. -->
 ReplaceWithDependencyInfo.
 
-# Analytics
+# Analytics<a name="analytics"/>
 <!-- List the events that are captured and any reporting data that is sent downstream. -->
 ReplaceWithAnalytics.
 
-# Testing
+# Testing<a name="testing"/>
 <!-- List step-by-step instructions to run a manual test locally, preview, and in production. Provide detail on any automated testing that had been performed on this feature. -->
 ReplaceWithTestingInfo.
 
-# Scenarios & Examples
+# Scenarios & Examples<a name="scenarios-and-examples"/>
 ReplaceWithScenarioInfo.
 
-# Out-of-Scope
+# Out-of-Scope<a name="out-of-scope"/>
 ReplaceWithOut-of-ScopeInfo.
 
-# Links
+# Links<a name="links"/>
 |Description|URL|
 |----|----|
 | |  |
