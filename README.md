@@ -8,34 +8,28 @@ This should be viewable at https://ironironi.github.io/test.github.io/
   <summary>Table of contents - click to expand!</summary>
 
 ### Heading
-  
   1. A numbered
   2. list
      * With some
      * Sub bullets
-
 </details>
-
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
 
 ## External Links
-
 External link that opens in same tab, nie dobje: [a test link](https://hebrewlion.com)
-
 External link that opens in a new tab: <a href="http://hebrewlion.com" target="_blank">this is descriptive text</a>
 
 ## Images
-
 This first cat has alt text and title, but cannot be resized
 ![Alt text describing image](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png "How do you like this image? This is additional info, beyond alt text")
-
 Now, this is the same cat resized, but using different code. I am not sure it be alt texted, etc.
 <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="100">
 
 Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-with-markdown/](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 ---------------
-# More testing - the features template, ensuring that it works (toc linkage, all aspects displaying, etc.)
+# More testing 
+## the features template, ensuring that it works (toc linkage, all aspects displaying, etc.)
 <!--Use this template to describe an existing FEATURE. Article name: Do make the first word(s) in the title a term you believe people would scan or search for. Follow with a hyphen and add qualifying language that is meaningful to broad audiences. Example: "Chromecast - Casting via” Additional tips are located in the Engineering article: Best Practices for Writing a Wiki Article.-->
 
 |                 |Replace-with-Title  |
@@ -54,7 +48,7 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 <details>
   <summary>Table of Contents - click to expand</summary>
 
-[Motivation](motivation)
+[Motivation](#motivation)
 
 [Details](#details)
 
