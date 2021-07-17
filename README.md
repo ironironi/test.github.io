@@ -29,7 +29,6 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 ---------------
 # More testing 
-## the features template, ensuring that it works (toc linkage, all aspects displaying, etc.)
 <!--Use this template to describe an existing FEATURE. Article name: Do make the first word(s) in the title a term you believe people would scan or search for. Follow with a hyphen and add qualifying language that is meaningful to broad audiences. Example: "Chromecast - Casting via” Additional tips are located in the Engineering article: Best Practices for Writing a Wiki Article.-->
 
 |                 |Replace-with-Title  |
@@ -78,10 +77,12 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 # Motivation<a name="motivation"/>
 <!-- MOTIVATION: Describe the “why” for this feature. If you find the section becoming long, break it up into subsections. -->
+
 ReplaceWithMotivationInfo.
 
 # Details<a name="details"/>
 <!-- DETAILS (and the entire article, in general): If appropriate content exists elsewhere, do not recreate. Instead, link to that information. Add images, tables and lists when appropriate, breaking up large chunks of text. This makes the article more "readable," enabling the reader to skim and to more quickly and easily locate and recognize information. If including any diagrams, supply “living” files that are linked to their sources/editable, as needed (e.g., LucidChart). For additional tips, refer to the Engineering article: Best Practices for Writing a Wiki Article. -->
+
 ReplaceWithDetailsInfo.
 
 # Terms/Concepts<a name="terms-concepts"/>
@@ -94,35 +95,44 @@ ReplaceWithDetailsInfo.
 
 # Prerequisites<a name="prerequisites"/>
 <!-- Describe the setup/configuration necessary to access the feature. -->
+
 ReplaceWithPrerequisiteInfo.
 
 # Design<a name="design"/>
+
 ReplaceWithDesignInfo.
 
 # Diagrams<a name="diagrams"/>
 <!-- Overwrite the following globe with an image (or delete globe). Add image(s) that would help the reader understand the feature’s architecture, flow and dependencies, such as HLDs or flow diagrams. If including any diagrams, supply “living” files that are linked to their sources/editable, as needed (e.g., LucidChart) -->
+
 ![Alt text](https://github.githubassets.com/images/modules/site/home/globe.jpg)
 
 # Known Issues<a name="known-issues"/>
 <!-- Describe the feature's limitations, ways to get around these limitations and links to relevant, open Jira tickets. Troubleshooting and support information do not belong in this article, and go in a separate How-To article. -->
+
 ReplaceWithKnownIssuesInfo.
 
 # Dependencies<a name="dependencies"/>
 <!-- Describe the dependencies this feature has on 3rd party libraries, external team services, data, etc. -->
+
 ReplaceWithDependencyInfo.
 
 # Analytics<a name="analytics"/>
 <!-- List the events that are captured and any reporting data that is sent downstream. -->
+
 ReplaceWithAnalytics.
 
 # Testing<a name="testing"/>
 <!-- List step-by-step instructions to run a manual test locally, preview, and in production. Provide detail on any automated testing that had been performed on this feature. -->
+
 ReplaceWithTestingInfo.
 
 # Scenarios & Examples<a name="scenarios-and-examples"/>
+
 ReplaceWithScenarioInfo.
 
 # Out-of-Scope<a name="out-of-scope"/>
+
 ReplaceWithOut-of-ScopeInfo.
 
 # Links<a name="links"/>
