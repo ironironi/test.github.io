@@ -54,9 +54,9 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 <details>
   <summary>Table of Contents - click to expand</summary>
 
-[Motivation](# motivation)
+[Motivation](#motivation)
 
-[Details](# details)
+[Details](#details)
 
 [Terms/Concepts](#terms/concepts)
 
@@ -82,7 +82,7 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
   </details>
 
-# Motivation
+# Motivation<a name="motivation"/>
 <!-- MOTIVATION: Describe the “why” for this feature. If you find the section becoming long, break it up into subsections. -->
 ReplaceWithMotivationInfo.
 
