@@ -1,4 +1,4 @@
-This should be viewable at https://ironironi.github.io/test/ -- but there's something majorly wrong with it.
+This should be viewable at https://ironironi.github.io/test.github.io/ 
 
 # Testing features
 
