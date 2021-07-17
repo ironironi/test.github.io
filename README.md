@@ -58,7 +58,7 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 
 [Details](#details)
 
-[Terms/Concepts](#terms-concepts)
+[Terms/Concepts](#terms/concepts)
 
 [Prerequisites](#prerequisites)
 
@@ -81,7 +81,6 @@ Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-wi
 [Links](#links)
 
   </details>
-  
 
 # Motivation<a name="motivation"/>
 <!-- MOTIVATION: Describe the “why” for this feature. If you find the section becoming long, break it up into subsections. -->
@@ -139,4 +138,3 @@ ReplaceWithOut-of-ScopeInfo.
 | |  |
 |	|  |
 | |	 |
-
