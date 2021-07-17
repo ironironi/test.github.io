@@ -86,6 +86,7 @@ ReplaceWithDetailsInfo.
 
 # Terms/Concepts<a name="terms-concepts"/>
 <!--- Describe any terms or concepts appearing in this article that may not be known outside of your immediate group. -->
+
 |Term/Concept|Definition|Example|
 |--|--|--|
 ||||
