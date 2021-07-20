@@ -9,9 +9,16 @@ This should be viewable at https://ironironi.github.io/test.github.io/
 
 ### Heading
 [  1. First Heading](#first-heading)
-  2. secondhead
-     * thirdhead-indented
-     * 4thhead-indented
+  
+[Motivation](#motivation)
+  
+[Terms/Concepts](#terms-concepts)  
+
+[  2. secondhead]
+  
+[     * thirdhead-indented]
+  
+[     * 4thhead-indented]
 </details>
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
 
@@ -28,6 +35,14 @@ Now, this is the same cat resized, but using different code. I am not sure it be
 <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="100">
 
 Further info and options at [a https://www.xaprb.com/blog/how-to-style-images-with-markdown/](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
+
+# Motivation
+
+This is why I am motivated.
+
+# Terms/Concepts
+
+I am a term, and I am a concept.
 
 ---------------
 # More testing 
