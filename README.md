@@ -8,10 +8,10 @@ This should be viewable at https://ironironi.github.io/test.github.io/
   <summary>Table of contents - click to expand!</summary>
 
 ### Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  1. firsthead
+  2. secondhead
+     * thirdhead-indented
+     * 4thhead-indented
 </details>
 Reminder: Both the <summary> and </details> tags need a blank line afterward, or Github may not cooperate.
 
