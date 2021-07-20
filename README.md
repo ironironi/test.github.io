@@ -8,7 +8,7 @@ This should be viewable at https://ironironi.github.io/test.github.io/
   <summary>Table of contents - click to expand!</summary>
 
 ### Heading
-  1. First Heading(first-heading)
+[  1. First Heading](first-heading)
   2. secondhead
      * thirdhead-indented
      * 4thhead-indented
